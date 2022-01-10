@@ -3,7 +3,7 @@ Simple example how to run AI service on flask server.
 
 > ENVIRONMENT:
 > 
-> flask: 2.0.0
+> flask: 2.0.2
 > 
 > tensorflow: 2.3.0
 > 
